@@ -1,5 +1,5 @@
 # Task1
-Using HTML, CSS, and JavaScript creating a quiz 
+Creating a to-do list using HTML, CSS, and JavaScript
 <!DOCTYPE html>
 <html lang="en">
 <head>
