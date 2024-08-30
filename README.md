@@ -1,4 +1,10 @@
 # Task1
+Name: Shruti Singh
+Company: Codtech IT Solution
+ID: CT08DS5816
+Duration: August 1st to September 1st
+Mentor:Neela Santosh Kumar
+
 Creating a to-do list using HTML, CSS, and JavaScript
 <!DOCTYPE html>
 <html lang="en">
